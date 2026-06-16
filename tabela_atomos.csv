@@ -1,0 +1,61 @@
+Categoria,Atomo,Descricao,Codigo
+Palavra Reservada,boolean,,A01
+Palavra Reservada,break,,A02
+Palavra Reservada,character,,A03
+Palavra Reservada,declarations,,A04
+Palavra Reservada,else,,A05
+Palavra Reservada,endDeclarations,,A06
+Palavra Reservada,endFunction,,A07
+Palavra Reservada,endFunctions,,A08
+Palavra Reservada,endIf,,A09
+Palavra Reservada,endProgram,,A10
+Palavra Reservada,endWhile,,A11
+Palavra Reservada,false,,A12
+Palavra Reservada,functions,,A13
+Palavra Reservada,funcType,,A14
+Palavra Reservada,if,,A15
+Palavra Reservada,integer,,A16
+Palavra Reservada,paramType,,A17
+Palavra Reservada,print,,A18
+Palavra Reservada,program,,A19
+Palavra Reservada,real,,A20
+Palavra Reservada,return,,A21
+Palavra Reservada,string,,A22
+Palavra Reservada,true,,A23
+Palavra Reservada,varType,,A24
+Palavra Reservada,void,,A25
+Palavra Reservada,while,,A26
+Simbolo Reservado,;,semicolon,B01
+Simbolo Reservado,",",comma,B02
+Simbolo Reservado,:,colon,B03
+Simbolo Reservado,:=,assignment,B04
+Simbolo Reservado,?,questionMark,B05
+Simbolo Reservado,(,leftParenthesis,B06
+Simbolo Reservado,),rightParenthesis,B07
+Simbolo Reservado,[,leftBracket,B08
+Simbolo Reservado,],rightBracket,B09
+Simbolo Reservado,{,leftBrace,B10
+Simbolo Reservado,},rightBrace,B11
+Simbolo Reservado,+,plus,B12
+Simbolo Reservado,-,minus,B13
+Simbolo Reservado,*,multiplication,B14
+Simbolo Reservado,/,division,B15
+Simbolo Reservado,%,modulo,B16
+Simbolo Reservado,==,equalComparison,B17
+Simbolo Reservado,!=,notEqual,B18
+Simbolo Reservado,#,hash (alias for) !=,B18
+Simbolo Reservado,<,lessThan,B19
+Simbolo Reservado,<=,lessThanOrEqual,B20
+Simbolo Reservado,>,greaterThan,B21
+Simbolo Reservado,>=,greaterThanOrEqual,B22
+Identificador,variable,,C01
+Identificador,functionName,,C02
+Identificador,programName,,C03
+Identificador,stringConst,,C04
+Identificador,charConst,,C05
+Identificador,intConst,,C06
+Identificador,realConst,,C07
+Submaquina,submachine1,,D01
+Submaquina,submachine2,,D02
+Submaquina,submachine3,,D03
+Submaquina,submachinen,,DNN
