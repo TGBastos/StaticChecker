@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-Teste 1, teste 2, teste 3
-Teste 4, teste 4, teste 4
-Teste 5, teste 6, teste7
-=======
 /* TESTE MESTRE PAVA2026-1
    Equipe E01 - Validacao Final */
 
 program TesteFinal
+    @$
     // Variaveis e Tipos
     integer contador := 0 ;
     real taxaJuros := 12.5e-2 ;
@@ -20,4 +16,3 @@ program TesteFinal
         break ;
     }
     return ;
->>>>>>> c63a474 (Static Checker)

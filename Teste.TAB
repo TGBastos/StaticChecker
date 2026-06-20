@@ -8,43 +8,43 @@ Anna Luíza Morerira de Oliveira; annaluiza.oliveira@ucsal.edu.br; (71) 98181-31
 RELATÓRIO DA TABELA DE SÍMBOLOS.
 Texto fonte analisado: Teste.261
 
-Entrada: 1, Código: C01, Lexeme: TESTEFINAL,
+Entrada: 1, Código: C03, Lexeme: TESTEFINAL,
 QtdCharsAntesTrunc: 10, QtdCharDepoisTrunc: 10,
 TipoSimb: , Linhas: (4).
 
 Entrada: 2, Código: C01, Lexeme: CONTADOR,
 QtdCharsAntesTrunc: 8, QtdCharDepoisTrunc: 8,
-TipoSimb: , Linhas: (6, 12).
+TipoSimb: , Linhas: (7, 13).
 
 Entrada: 3, Código: C06, Lexeme: 0,
 QtdCharsAntesTrunc: 1, QtdCharDepoisTrunc: 1,
-TipoSimb: , Linhas: (6).
+TipoSimb: , Linhas: (7).
 
 Entrada: 4, Código: C01, Lexeme: TAXAJUROS,
 QtdCharsAntesTrunc: 9, QtdCharDepoisTrunc: 9,
-TipoSimb: , Linhas: (7, 13).
+TipoSimb: , Linhas: (8, 14).
 
 Entrada: 5, Código: C07, Lexeme: 12.5E-2,
 QtdCharsAntesTrunc: 7, QtdCharDepoisTrunc: 7,
-TipoSimb: , Linhas: (7).
+TipoSimb: , Linhas: (8).
 
 Entrada: 6, Código: C01, Lexeme: NOMEDAVARIAVELCOMMAISDETRINTAC,
 QtdCharsAntesTrunc: 30, QtdCharDepoisTrunc: 39,
-TipoSimb: , Linhas: (8).
+TipoSimb: , Linhas: (9).
 
 Entrada: 7, Código: C04, Lexeme: "MUITO GRANDE",
 QtdCharsAntesTrunc: 14, QtdCharDepoisTrunc: 14,
-TipoSimb: , Linhas: (8).
+TipoSimb: , Linhas: (9).
 
 Entrada: 8, Código: C01, Lexeme: OPCAO,
 QtdCharsAntesTrunc: 5, QtdCharDepoisTrunc: 5,
-TipoSimb: , Linhas: (9).
+TipoSimb: , Linhas: (10).
 
 Entrada: 9, Código: C05, Lexeme: 'S',
 QtdCharsAntesTrunc: 3, QtdCharDepoisTrunc: 3,
-TipoSimb: , Linhas: (9).
+TipoSimb: , Linhas: (10).
 
 Entrada: 10, Código: C06, Lexeme: 10,
 QtdCharsAntesTrunc: 2, QtdCharDepoisTrunc: 2,
-TipoSimb: , Linhas: (12).
+TipoSimb: , Linhas: (13).
 

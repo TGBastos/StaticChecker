@@ -1,9 +1,29 @@
+import string
+
+CARACTERES_VALIDOS = set(string.ascii_letters)
+CARACTERES_VALIDOS |= set(string.digits)
+CARACTERES_VALIDOS |= {
+    '_', '"', "'", '.',
+    ' ', '\t', '\n', '\r',
+    ';', ',', ':', '=', '?',
+    '(', ')', '[', ']', '{', '}',
+    '+', '-', '*', '/', '%',
+    '<', '>', '!', '#',
+}
+
 class AnalisadorLexico:
     def __init__(self, texto_fonte):
-        self.texto = texto_fonte
+        self.texto = self._filtrar_caracteres_invalidos(texto_fonte)
         self.posicao = 0
-        self.tamanho = len(texto_fonte)
+        self.tamanho = len(self.texto)
         self.linha_atual = 1
+
+    def _filtrar_caracteres_invalidos(self, texto):
+        """Filtro de primeiro nível: descarta silenciosamente caracteres
+        fora do conjunto válido da linguagem. O caractere removido não
+        funciona como delimitador — a formação do átomo continua
+        normalmente como se ele nunca tivesse existido."""
+        return ''.join(c for c in texto if c in CARACTERES_VALIDOS)
 
     def avancar(self):
         """Avança o ponteiro de leitura e conta as linhas."""

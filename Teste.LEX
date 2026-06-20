@@ -9,122 +9,122 @@ RELATÓRIO DA ANÁLISE LÉXICA.
 Texto fonte analisado: Teste.261
 
 Lexeme: PROGRAM,
-Código: A19, indiceTabSimb: ,
+Código: A19, indiceTabSimb: -,
 Linha: 4.
 Lexeme: TESTEFINAL,
-Código: C01, indiceTabSimb: 1,
+Código: C03, indiceTabSimb: 1,
 Linha: 4.
 Lexeme: INTEGER,
-Código: A16, indiceTabSimb: ,
-Linha: 6.
+Código: A16, indiceTabSimb: -,
+Linha: 7.
 Lexeme: CONTADOR,
 Código: C01, indiceTabSimb: 2,
-Linha: 6.
+Linha: 7.
 Lexeme: :=,
-Código: B04, indiceTabSimb: ,
-Linha: 6.
+Código: B04, indiceTabSimb: -,
+Linha: 7.
 Lexeme: 0,
 Código: C06, indiceTabSimb: 3,
-Linha: 6.
-Lexeme: ;,
-Código: B01, indiceTabSimb: ,
-Linha: 6.
-Lexeme: REAL,
-Código: A20, indiceTabSimb: ,
 Linha: 7.
+Lexeme: ;,
+Código: B01, indiceTabSimb: -,
+Linha: 7.
+Lexeme: REAL,
+Código: A20, indiceTabSimb: -,
+Linha: 8.
 Lexeme: TAXAJUROS,
 Código: C01, indiceTabSimb: 4,
-Linha: 7.
+Linha: 8.
 Lexeme: :=,
-Código: B04, indiceTabSimb: ,
-Linha: 7.
+Código: B04, indiceTabSimb: -,
+Linha: 8.
 Lexeme: 12.5E-2,
 Código: C07, indiceTabSimb: 5,
-Linha: 7.
-Lexeme: ;,
-Código: B01, indiceTabSimb: ,
-Linha: 7.
-Lexeme: STRING,
-Código: A22, indiceTabSimb: ,
 Linha: 8.
+Lexeme: ;,
+Código: B01, indiceTabSimb: -,
+Linha: 8.
+Lexeme: STRING,
+Código: A22, indiceTabSimb: -,
+Linha: 9.
 Lexeme: NOMEDAVARIAVELCOMMAISDETRINTAC,
 Código: C01, indiceTabSimb: 6,
-Linha: 8.
+Linha: 9.
 Lexeme: :=,
-Código: B04, indiceTabSimb: ,
-Linha: 8.
+Código: B04, indiceTabSimb: -,
+Linha: 9.
 Lexeme: "MUITO GRANDE",
 Código: C04, indiceTabSimb: 7,
-Linha: 8.
-Lexeme: ;,
-Código: B01, indiceTabSimb: ,
-Linha: 8.
-Lexeme: CHARACTER,
-Código: A03, indiceTabSimb: ,
 Linha: 9.
+Lexeme: ;,
+Código: B01, indiceTabSimb: -,
+Linha: 9.
+Lexeme: CHARACTER,
+Código: A03, indiceTabSimb: -,
+Linha: 10.
 Lexeme: OPCAO,
 Código: C01, indiceTabSimb: 8,
-Linha: 9.
+Linha: 10.
 Lexeme: :=,
-Código: B04, indiceTabSimb: ,
-Linha: 9.
+Código: B04, indiceTabSimb: -,
+Linha: 10.
 Lexeme: 'S',
 Código: C05, indiceTabSimb: 9,
-Linha: 9.
+Linha: 10.
 Lexeme: ;,
-Código: B01, indiceTabSimb: ,
-Linha: 9.
+Código: B01, indiceTabSimb: -,
+Linha: 10.
 Lexeme: IF,
-Código: A15, indiceTabSimb: ,
-Linha: 12.
+Código: A15, indiceTabSimb: -,
+Linha: 13.
 Lexeme: (,
-Código: B06, indiceTabSimb: ,
-Linha: 12.
+Código: B06, indiceTabSimb: -,
+Linha: 13.
 Lexeme: CONTADOR,
 Código: C01, indiceTabSimb: 2,
-Linha: 12.
+Linha: 13.
 Lexeme: <=,
-Código: 820, indiceTabSimb: ,
-Linha: 12.
+Código: B20, indiceTabSimb: -,
+Linha: 13.
 Lexeme: 10,
 Código: C06, indiceTabSimb: 10,
-Linha: 12.
-Lexeme: ),
-Código: 807, indiceTabSimb: ,
-Linha: 12.
-Lexeme: {,
-Código: B10, indiceTabSimb: ,
-Linha: 12.
-Lexeme: PRINT,
-Código: A18, indiceTabSimb: ,
 Linha: 13.
+Lexeme: ),
+Código: B07, indiceTabSimb: -,
+Linha: 13.
+Lexeme: {,
+Código: B10, indiceTabSimb: -,
+Linha: 13.
+Lexeme: PRINT,
+Código: A18, indiceTabSimb: -,
+Linha: 14.
 Lexeme: TAXAJUROS,
 Código: C01, indiceTabSimb: 4,
-Linha: 13.
-Lexeme: ;,
-Código: B01, indiceTabSimb: ,
-Linha: 13.
-Lexeme: },
-Código: B11, indiceTabSimb: ,
 Linha: 14.
+Lexeme: ;,
+Código: B01, indiceTabSimb: -,
+Linha: 14.
+Lexeme: },
+Código: B11, indiceTabSimb: -,
+Linha: 15.
 Lexeme: ELSE,
-Código: A05, indiceTabSimb: ,
-Linha: 14.
+Código: A05, indiceTabSimb: -,
+Linha: 15.
 Lexeme: {,
-Código: B10, indiceTabSimb: ,
-Linha: 14.
+Código: B10, indiceTabSimb: -,
+Linha: 15.
 Lexeme: BREAK,
-Código: A02, indiceTabSimb: ,
-Linha: 15.
-Lexeme: ;,
-Código: B01, indiceTabSimb: ,
-Linha: 15.
-Lexeme: },
-Código: B11, indiceTabSimb: ,
+Código: A02, indiceTabSimb: -,
 Linha: 16.
-Lexeme: RETURN,
-Código: A21, indiceTabSimb: ,
-Linha: 17.
 Lexeme: ;,
-Código: B01, indiceTabSimb: ,
+Código: B01, indiceTabSimb: -,
+Linha: 16.
+Lexeme: },
+Código: B11, indiceTabSimb: -,
 Linha: 17.
+Lexeme: RETURN,
+Código: A21, indiceTabSimb: -,
+Linha: 18.
+Lexeme: ;,
+Código: B01, indiceTabSimb: -,
+Linha: 18.
